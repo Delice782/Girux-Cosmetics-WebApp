@@ -1,4 +1,4 @@
- c                     ## Project Status 
+  c                     ## Project Status 
 
 This project is currently in development. The functionality and features described in this documentation are a work in progress and subject to change as the project evolves.
 
